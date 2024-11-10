@@ -24,12 +24,12 @@ python train.py
 ```
 
 ### Accuracy Plot
-![Model Accuracy](Accuracy.png =500x)
+![Model Accuracy](Accuracy.png)
 
 The plot above shows the training and validation accuracy over the epochs.
 
 ### Sample Predictions
-![Sample](Sample.png =400x)
-![Predictions](Predictions.png =400x)
+![Sample](Sample.png)
+![Predictions](Predictions.png)
 
 The images above illustrate the model's predictions on test samples. The model successfully identifies and matches the images with their respective descriptions.
