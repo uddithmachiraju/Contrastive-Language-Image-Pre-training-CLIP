@@ -15,3 +15,5 @@ To run this project, clone the repository and install the necessary dependencies
 ```bash
 git clone https://github.com/uddithmachiraju/Contrastive-Language-Image-Pre-training-CLIP.git
 cd Contrastive-Language-Image-Pre-training-CLIP
+python train.py
+
