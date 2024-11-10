@@ -1,8 +1,3 @@
-Apologies for the confusion earlier! Let's fix that and make everything clear for you.
-
-Here’s the corrected and complete `README.md` file, including **Model Accuracy and Results** with the appropriate sections for **Accuracy Plot** and **Sample Predictions**.
-
-```markdown
 # Contrastive Language-Image Pre-training (CLIP)
 
 This repository contains the implementation and exploration of CLIP, a model that learns visual concepts from natural language descriptions.
