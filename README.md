@@ -23,13 +23,13 @@ cd Contrastive-Language-Image-Pre-training-CLIP
 python train.py
 ```
 
-## Model Accuracy and Results
-
 ### Accuracy Plot
-![Model Accuracy](Accuracy.png)
+![Model Accuracy](Accuracy.png =500x)
 
 The plot above shows the training and validation accuracy over the epochs.
 
 ### Sample Predictions
-![Sample](Sample.png)
-![Predictions](Predictions.png)
+![Sample](Sample.png =400x)
+![Predictions](Predictions.png =400x)
+
+The images above illustrate the model's predictions on test samples. The model successfully identifies and matches the images with their respective descriptions.
